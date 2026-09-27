@@ -48,7 +48,7 @@ def main():
         elif choice == "3":
             find_student()
         elif choice == "4":
-            print("\nThanks for using my Student Management System! 👋")
+            print("\nThanks for using my Student Management System!")
             break
         else:
             print("\nPlease choose a valid option.")
